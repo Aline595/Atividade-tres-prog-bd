@@ -134,7 +134,7 @@ a palavra learning pode aparecer em machine learning e em deep learning.
 Quebre cada interesse em palavras para fazera contagem e montar o histograma.
 """
 def palavras_de_interesse():
-  palavras_de_interesse = ["learning", "Java"]
+  palavras_de_interesse = ["learning", "deep"]
   contagem = []
   interesses = [["machine learning"], ["deep learning"]]
 
